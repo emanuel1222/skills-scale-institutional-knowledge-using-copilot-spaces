@@ -21,7 +21,10 @@ This documentation provides a comprehensive guide to OctoAcme's project manageme
 - **Project Manager (PM)**: Coordinates delivery, schedules, risks, and communications
 - **Product Manager (PdM)**: Defines outcomes, prioritizes backlog, and measures success
 - **Developers**: Implement features, collaborate on design, and ensure testability
-- **QA/Testing**: Validate quality and acceptance criteria
+- **Scrum Master**: Facilitates agile ceremonies, removes impediments, and coaches the team
+- **UX Designer**: Creates user-centered designs and ensures accessibility and usability
+- **QA Lead / Automation Engineer**: Validates quality through testing strategies and automation
+- **Business Analyst**: Bridges stakeholders and delivery team, translates requirements
 
 See [Roles and Personas](./octoacme-roles-and-personas.md) for detailed role definitions.
 
